@@ -1,2 +1,2 @@
 def saluer():
-    print("Bonjour tout le monde !")
+    print("Bienvenue dans notre projet !")
