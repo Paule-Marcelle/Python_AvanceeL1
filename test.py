@@ -1,3 +1,0 @@
-print ('Familiarisation a github')
-
- 
